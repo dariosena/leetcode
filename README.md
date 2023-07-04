@@ -1,0 +1,2 @@
+# leetcode
+Rust Leetcode Solutions
